@@ -2,6 +2,8 @@
 
 Clone the github repository: `git clone https://github.com/AlexeyAB/darknet` on Linux(terminal) or Windows(Powershell).
 
+Or download modified rpository will all of these changes. https://drive.google.com/file/d/1HQ89CTIVCvJXj3RPfFRQzSCmhO8-zAwU/view?usp=sharing
+
 ### Compile the github repository(on Windows) 
 
 ```PowerShell
